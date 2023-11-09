@@ -1,3 +1,5 @@
+[![Sourcery](https://img.shields.io/badge/Sourcery-enabled-brightgreen)](https://sourcery.ai)
+
 # Project Minerva
 
 Project Minerva is a monorepo that I am developing. This is mainly an educational project for me personally.
